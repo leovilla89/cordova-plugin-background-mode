@@ -50,11 +50,11 @@ public class ForegroundService extends Service {
 
     // Default title of the background notification
     private static final String NOTIFICATION_TITLE =
-            "App is running in background";
+            "Jovenes Forge se continua ejecutando";
 
     // Default text of the background notification
     private static final String NOTIFICATION_TEXT =
-            "Doing heavy tasks.";
+            "Servicio de chat";
 
     // Default icon of the background notification
     private static final String NOTIFICATION_ICON = "icon";
